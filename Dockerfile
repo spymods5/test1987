@@ -1,3 +1,2 @@
 FROM alpine:latest
-
-CMD ["echo", "SpyMods Docker Image"]
+CMD ["echo", "Hello from SpyMods"]
